@@ -2,6 +2,10 @@
 #### Finding out structural similarity of the images helped us in finding the difference or similarity in the shape of the images. Similarly, finding out the threshold and contours based on those threshold for the images converted into grayscale binary also helped us in shape analysis and recognition. 
 #### Finally we visualized the differences and similarities between the images using by displaying the images with contours, difference and threshold.  
 
+<img src="https://github.com/Mobolaji-Github/Pan-Card-Tampering-Flask-App/blob/master/app/static/generated/image_original.png?raw=true">
+<img src="https://github.com/Mobolaji-Github/Pan-Card-Tampering-Flask-App/blob/master/app/static/generated/image_uploaded.jpg?raw=true">
+
+
 
 Step to run application:
 Step 1:	Create the copy of the project.
